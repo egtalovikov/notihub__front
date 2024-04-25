@@ -2,7 +2,6 @@ import { addUser } from '@/app/dashboard/lib/actions'
 import styles from "@/app/ui/dashboard/users/addUser/addUser.module.css"
 
 const AddUserPage = () => {
-	const
 	return (
 		<div className={styles.container}>
 			<form action={addUser} className={styles.form}>
