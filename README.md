@@ -1,5 +1,7 @@
 Для старта проекта:
 
+npm i
+
 npm run build
 
 npm run start
